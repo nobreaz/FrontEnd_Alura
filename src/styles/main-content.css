@@ -93,3 +93,27 @@
     font-weight: 700;
     border-radius: 40px;
 }
+
+.playlist-container{
+    height: 75vh;
+    background-color: #121212;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 16px;
+    color: #fff;
+}
+
+.playlist{
+    margin: 24px;
+}
+
+.playlist-container #greeting{
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 48px;
+}
+
+.playlist-container .greeting-subtitle{
+    font-weight: 700;
+    font-size: 24px;
+}
